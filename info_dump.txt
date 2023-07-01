@@ -1,0 +1,80 @@
+─ CPU
+  └── AMD Ryzen 5 5600H with Radeon Graphics         
+      ├── Cores: 6
+      ├── Threads: 12
+      ├── SSE: SSE4.2
+      ├── SSSE3: Supported
+      └── Codename: Cezanne
+
+─ Motherboard
+  ├── Model: 88ED
+  └── Manufacturer: HP
+
+─ GPU
+  ├── NVIDIA GeForce RTX 3050 Ti Laptop GPU
+  │   ├── Device ID: 0x25A0
+  │   ├── Vendor: 0x10DE
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)
+  │   └── ACPI Path: \_SB.PCI0.GPP0.PEGP
+  └── AMD Radeon(TM) Graphics
+      ├── Device ID: 0x1638
+      ├── Vendor: 0x1002
+      ├── PCI Path: PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x0)
+      ├── ACPI Path: \_SB.PCI0.GP17.VGA_
+      └── Codename: Renoir
+
+─ Memory
+  ├── M471A5244CB0-CWE (Part-Number)
+  │   ├── Type: DDR4
+  │   ├── Slot
+  │   │   ├── Bank: P0 CHANNEL A
+  │   │   └── Channel: Bottom - Slot 1 (left)
+  │   ├── Frequency (MHz): 3200 MHz
+  │   ├── Manufacturer: Samsung
+  │   └── Capacity: 4096MB
+  └── M471A5244CB0-CWE (Part-Number)
+      ├── Type: DDR4
+      ├── Slot
+      │   ├── Bank: P0 CHANNEL B
+      │   └── Channel: Bottom - Slot 2 (right)
+      ├── Frequency (MHz): 3200 MHz
+      ├── Manufacturer: Samsung
+      └── Capacity: 4096MB
+
+─ Network
+  ├── RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+  │   ├── Device ID: 0x8168
+  │   ├── Vendor: 0x10EC
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x2)/Pci(0x0,0x0)
+  │   └── ACPI Path: \_SB.PCI0.GPP1.XPDV
+  └── RTL8852AE 802.11ax PCIe Wireless Network Adapter
+      ├── Device ID: 0x8852
+      ├── Vendor: 0x10EC
+      ├── PCI Path: PciRoot(0x0)/Pci(0x2,0x1)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.BR31
+
+─ Audio
+  ├── NV0A [Aladdin TNT2 IGP]
+  │   ├── Device ID: 0x00A0
+  │   └── Vendor: 0x10DE
+  ├── RV635 HDMI Audio [Radeon HD 3650/3730/3750]
+  │   ├── Device ID: 0xAA01
+  │   └── Vendor: 0x1002
+  ├── Realtek ALC245
+  │   ├── Device ID: 0x0245
+  │   └── Vendor: 0x10EC
+  └── ACP/ACP3X/ACP6x Audio Coprocessor
+      ├── Device ID: 0x15E2
+      └── Vendor: 0x1022
+
+─ Input
+  └── USB Input Device (USB)
+      ├── Product ID: 0x2510
+      └── Vendor ID: 0x093A
+
+─ Storage
+  └── SK hynix PC711 HFS512GDE9X073N
+      ├── Type: NVMe
+      ├── Connector: PCI Express
+      └── Location: Internal
+
